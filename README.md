@@ -1,0 +1,1 @@
+Este proyecto es parte de los desafios de Frontend Mentor, está construido con puro HTML y CSS.
